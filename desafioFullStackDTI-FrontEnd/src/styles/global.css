@@ -1,0 +1,37 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Fundo e texto */
+body {
+  background: #f3f4f6;
+  color: #1f2937;
+}
+
+/* Botões */
+button {
+  padding: 8px 14px;
+  background: #2563eb;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: 0.2s;
+}
+
+button:hover {
+  background: #1e40af;
+}
+
+button.botao-perigo {
+  background: #dc2626;
+}
+
+button.botao-perigo:hover {
+  background: #b91c1c;
+}

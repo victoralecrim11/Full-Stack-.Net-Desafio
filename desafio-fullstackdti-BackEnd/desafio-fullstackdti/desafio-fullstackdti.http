@@ -1,0 +1,6 @@
+@desafio_fullstackdti_HostAddress = http://localhost:5007
+
+GET {{desafio_fullstackdti_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

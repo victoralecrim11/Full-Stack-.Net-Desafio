@@ -1,0 +1,49 @@
+.cartao-lead {
+  background: white;
+  border-radius: 10px;
+  padding: 20px;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  transition: 0.2s;
+}
+
+.cartao-lead:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Nome do lead */
+.cartao-lead h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+/* Texto dentro do cartão */
+.cartao-lead p {
+  margin-bottom: 6px;
+  color: #374151;
+}
+
+/* Caixa dos botões */
+.cartao-lead .botoes {
+  margin-top: 14px;
+  display: flex;
+  gap: 10px;
+}
+
+@media (max-width: 600px) {
+  .cartao-lead {
+    padding: 16px;
+  }
+
+  nav {
+    flex-wrap: wrap;
+  }
+
+  nav button {
+    flex: 1;
+  }
+}
+a {
+  color: #4c51bf;
+}

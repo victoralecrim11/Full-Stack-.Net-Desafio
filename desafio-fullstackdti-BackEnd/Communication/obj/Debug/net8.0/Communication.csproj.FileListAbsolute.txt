@@ -1,0 +1,17 @@
+C:\Desenvolvimento\Projetos\Projetos C#\desafio-fullstackdti-BackEnd\Communication\bin\Debug\net8.0\Communication.deps.json
+C:\Desenvolvimento\Projetos\Projetos C#\desafio-fullstackdti-BackEnd\Communication\bin\Debug\net8.0\Communication.dll
+C:\Desenvolvimento\Projetos\Projetos C#\desafio-fullstackdti-BackEnd\Communication\bin\Debug\net8.0\Communication.pdb
+C:\Desenvolvimento\Projetos\Projetos C#\desafio-fullstackdti-BackEnd\Communication\bin\Debug\net8.0\Application.dll
+C:\Desenvolvimento\Projetos\Projetos C#\desafio-fullstackdti-BackEnd\Communication\bin\Debug\net8.0\Domain.dll
+C:\Desenvolvimento\Projetos\Projetos C#\desafio-fullstackdti-BackEnd\Communication\bin\Debug\net8.0\Application.pdb
+C:\Desenvolvimento\Projetos\Projetos C#\desafio-fullstackdti-BackEnd\Communication\bin\Debug\net8.0\Domain.pdb
+C:\Desenvolvimento\Projetos\Projetos C#\desafio-fullstackdti-BackEnd\Communication\obj\Debug\net8.0\Communication.csproj.AssemblyReference.cache
+C:\Desenvolvimento\Projetos\Projetos C#\desafio-fullstackdti-BackEnd\Communication\obj\Debug\net8.0\Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Projetos\Projetos C#\desafio-fullstackdti-BackEnd\Communication\obj\Debug\net8.0\Communication.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Projetos\Projetos C#\desafio-fullstackdti-BackEnd\Communication\obj\Debug\net8.0\Communication.AssemblyInfo.cs
+C:\Desenvolvimento\Projetos\Projetos C#\desafio-fullstackdti-BackEnd\Communication\obj\Debug\net8.0\Communication.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Projetos\Projetos C#\desafio-fullstackdti-BackEnd\Communication\obj\Debug\net8.0\Communic.B9EB459D.Up2Date
+C:\Desenvolvimento\Projetos\Projetos C#\desafio-fullstackdti-BackEnd\Communication\obj\Debug\net8.0\Communication.dll
+C:\Desenvolvimento\Projetos\Projetos C#\desafio-fullstackdti-BackEnd\Communication\obj\Debug\net8.0\refint\Communication.dll
+C:\Desenvolvimento\Projetos\Projetos C#\desafio-fullstackdti-BackEnd\Communication\obj\Debug\net8.0\Communication.pdb
+C:\Desenvolvimento\Projetos\Projetos C#\desafio-fullstackdti-BackEnd\Communication\obj\Debug\net8.0\ref\Communication.dll
